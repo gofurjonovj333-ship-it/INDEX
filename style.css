@@ -1,0 +1,51 @@
+table{
+    border:1px solid #000;
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+}
+
+td,th{
+    border: 1px solid #000;
+}
+
+.red{
+    background-color: red;
+    color: white;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+}
+
+.red{
+    background-color: red;
+}
+
+.red{
+    background-color: red;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.red{
+    background-color: red;
+}
+
+.red{
+    background-color: red;
+}
+
+.red{
+    background-color: red;
+}
